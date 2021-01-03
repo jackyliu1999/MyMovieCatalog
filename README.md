@@ -15,7 +15,6 @@ npm install react-dom
 npm install react-router-dom
 npm install reactstrap
 npm install web-vitals
-.
 
 backend:
 npm install bcrypt
@@ -23,7 +22,6 @@ npm install express
 npm install express-mysql-session
 npm install express-session
 npm install mysql
-.
 ```
 
 ## Video Demo
