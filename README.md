@@ -1,7 +1,7 @@
 # MyMovieCatalog
 ## What it does and how it works
 
-.
+MyMovieCatalog is a web application that allows users to track which movies they have watched. The frontend was developed in ReactJS with it making backend calls to an SQL database storing user information and movie information. MYMovieCatalog allows users to add a movie to their watched list, remove a movie from their watched list, view the profiles of other users and search for movies using a keyword.
 
 **Requirements:**
 
